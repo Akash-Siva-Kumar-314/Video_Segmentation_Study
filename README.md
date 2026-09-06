@@ -4,7 +4,7 @@ Tried a pretrained yolo model, specifically the yolo model was pretrained on COC
  \
 Study01_Video_Segmentation_Study_TryingYoloPretrained.ipynb\
 \
-Next a yolo model was trained using user data, vehicles on road. This model was then used to segment vehicles of road. It was tested both on Images as well as videos.\
+Next a yolo model was trained using user data, vehicles on road. This model was then used to segment vehicles on road. It was tested both on Images as well as videos.\
 \
 Study02_Video_Segmentation_Study_VehicleSegmentation.ipynb\
 
